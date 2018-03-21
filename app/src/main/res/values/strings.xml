@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GoogleLoginTest1</string>
+    <string name="server_client_id">267143813548-4bgmtbjpnevtkl1kqase16grfe41vkos.apps.googleusercontent.com</string>
+    <string name="title_activity_">Activity</string>
+</resources>
